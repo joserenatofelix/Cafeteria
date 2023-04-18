@@ -1,5 +1,7 @@
 # Cafeteria - Site todo construido todo em Boostrap.
 
+<a href='https://joserenatofelix.github.io/Cafeteria/'><button>Confira o projeto clicando aqui</button>
+
 O projeto cafeteria foi criado com o objetivo de aprimorar nossos conhecimentos em CSS. Para isso, utilizamos o framework Bootstrap, uma ferramenta poderosa que nos permitiu criar um layout responsivo e moderno, capaz de se adaptar a diferentes tamanhos de tela e oferecer uma navegação intuitiva e fácil.
 
 Além disso, no projeto cafeteria apresenta informações relevantes sobre o nosso estabelecimento, seus produtos e promoções, de modo que você possa conhecer mais sobre o que temos a oferecer. Acreditamos que um site bem estruturado e atrativo pode ser fundamental para o sucesso de um negócio, especialmente no mundo digital, e por isso dedicamos todo o nosso empenho e paixão na criação deste ambiente.
